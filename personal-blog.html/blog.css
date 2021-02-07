@@ -1,0 +1,51 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.blog-heading {
+    text-align: center;
+    background-color: peru;
+    color: blue;
+    font-size: 60px;
+    font-family: cursive;
+}
+
+.blog-heading2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+}
+
+.blog-heading3 {
+    text-align: left;
+    background-color: papayawhip;
+    font-size: 28px;
+    font-family: cursive;
+}
+
+.social  {
+    width: 80px;
+}
+
+.blog-image {
+    display: block;
+    margin: 0 auto;
+    width:  50%;
+}
+
+.blog-text {
+    font-family: fantasy;
+    font-size: 28px;
+    color: mediumblue;
+    text-align: center;
+    border: 5px slategrey;
+    margin: 5px 40px;
+    padding: 10px;
+}
+
+.footer {
+    background-color: tomato;
+    color: black;
+    text-align: center;
+}
