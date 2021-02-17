@@ -1,9 +1,0 @@
-sleep
-wakeup
-brush
-bath
-exercise
-eat
-work
-
-
